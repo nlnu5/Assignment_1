@@ -170,6 +170,9 @@ All heap blocks were freed -- no leaks are possible
 ERROR SUMMARY: 0 errors from 0 contexts
 ```
 
+A video summary of the execution is uploaded here :
+
+[https://streamable.com/tut3dy] (https://savedly.net/f/vhbkxj7b)
 
 ## Dependencies
 
