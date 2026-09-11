@@ -135,8 +135,8 @@ for retrieving the counters.
 ## Ubuntu Test Screenshots
 
 ### Screenshot 1 — Buffer Manager Basic Tests
+<img width="940" height="579" alt="image" src="https://github.com/user-attachments/assets/b5966411-dac7-466b-94e0-6c8405a28fac" />
 
-![Buffer manager test result](image.png)
 
 Expected result:
 
@@ -148,8 +148,8 @@ Tests Failed: 0
 ---
 
 ### Screenshot 2 — Storage Manager Basic Tests
+<img width="940" height="460" alt="image" src="https://github.com/user-attachments/assets/643cf812-ed5a-4bc1-b664-51f2aec0518c" />
 
-![Storage manager test result](image-1.png)
 Expected result:
 
 ```text
@@ -161,7 +161,7 @@ Tests Failed: 0
 
 ### Screenshot 3 — Buffer Manager Valgrind
 
- ![Valgrind test result](image-2.png)
+<img width="940" height="458" alt="image" src="https://github.com/user-attachments/assets/471ee9ac-64a9-48e2-b088-9d113d1aaef2" />
 
 Expected result:
 
