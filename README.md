@@ -272,5 +272,3 @@ Storage Manager:
 All heap blocks were freed -- no leaks are possible
 ERROR SUMMARY: 0 errors from 0 contexts
 ```
-
-The professor-provided tests are basic tests only; passing them does not guarantee the result of the hidden autograder tests.
